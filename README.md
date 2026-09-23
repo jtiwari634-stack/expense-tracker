@@ -1,34 +1,31 @@
 # Expense Tracker
 
-A simple command-line Expense Tracker built with Python.
+A command-line Expense Tracker built with Python for managing daily expenses.
 
 ## Features
 
-- Add expenses
+- Add new expenses
 - View all expenses
 - Delete expenses
-- Track spending by category
-- Track expenses by date
-- Search expenses by name
 - Calculate total spending
-- Store expenses using JSON
-- Input validation
+- Track spending by category
+- View expenses by date
+- Search expenses by name
 - Automatic date tracking
+- Input validation
+- Persistent data storage using JSON
 
 ## Technologies Used
 
-- Python
+- Python 3
 - JSON
 - File Handling
-- Python Datetime
+- Datetime
 - Git & GitHub
 
 ## How to Run
 
-1. Make sure Python is installed.
-2. Clone the repository.
-3. Open the project folder in VS Code.
-4. Run:
+1. Clone the repository:
 
 ```bash
-python main.py
+git clone https://github.com/jtiwari634-stack/expense-tracker.git
