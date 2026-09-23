@@ -29,3 +29,19 @@ A command-line Expense Tracker built with Python for managing daily expenses.
 
 ```bash
 git clone https://github.com/jtiwari634-stack/expense-tracker.git
+
+## Demo
+
+### Expense Tracker in Action
+
+![Expense Tracker Demo](Screenshot 2026-09-23 194624.png)
+
+![Expense Tracker Demo](Screenshot 2026-09-23 194737.png)
+
+![Expense Tracker Demo](Screenshot 2026-09-23 195542.png)
+
+![Expense Tracker Demo](Screenshot 2026-09-23 195617.png)
+
+![Expense Tracker Demo](Screenshot 2026-09-23 195641.png)
+
+![Expense Tracker Demo](Screenshot 2026-09-23 195708.png)
